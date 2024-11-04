@@ -1,7 +1,1 @@
-Name = "Abdulrahman"
-print (Name)
-
-
-
-
-print("hello word")
+print("here is my first assignment")
