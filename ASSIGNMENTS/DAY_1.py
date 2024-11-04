@@ -6,3 +6,6 @@ print (full_name.title())
 print(full_name.upper())
 print(full_name.lower())
 
+my_first_message_to_arewa =("thank you for this opportunity to join current cohort", "all though am still testing my set", "Thank you")
+print(my_first_message_to_arewa)
+
